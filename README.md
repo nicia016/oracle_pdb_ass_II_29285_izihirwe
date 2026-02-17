@@ -92,7 +92,7 @@ Password:
 
 📷 Screenshots available in:
 ```
-![Image Alt](https://github.com/nicia016/oracle_pdb_ass_II_29285_izihirwe/blob/6bbcb15ffbb784a9d8e7e7ed2e5dd518443d7dde/sqlpl%202/ceate%20-pdb.png)
+![Image Alt](https://github.com/nicia016/oracle_pdb_ass_II_29285_izihirwe/blob/147b0cd4a7c3e6ddc9b0a8d9a0d415993f306303/sqlpl%202/ceate%20-pdb.png)
 ```
 
 ---
