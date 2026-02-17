@@ -92,7 +92,7 @@ Password:
 
 📷 Screenshots available in:
 ```
-screenshots/pdb_creation/
+![Image Alt](https://github.com/nicia016/oracle_pdb_ass_II_29285_izihirwe/blob/6bbcb15ffbb784a9d8e7e7ed2e5dd518443d7dde/sqlpl%202/ceate%20-pdb.png)
 ```
 
 ---
